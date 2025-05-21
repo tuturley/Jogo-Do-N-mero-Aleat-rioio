@@ -1,4 +1,4 @@
-# Jogo-Do-Número-Aleatório
+# Jogo-Do-Número-Secreto
 🎯 Projeto: Número Secreto
 Este é um projeto simples e divertido desenvolvido durante o curso de Lógica de Programação da Alura. O objetivo é criar um jogo interativo em que o usuário deve adivinhar um número secreto gerado aleatoriamente pelo programa.
 
